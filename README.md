@@ -3,7 +3,7 @@ These programs were designed to generate color palettes by evenly dividing the c
 # How to use
 Versions 13 and on use arrow keys to rotate the 3d environment.
 # Initial versions
-I started by creating an even distribution over the RGB color space. However this is not perceived uniformly by the human eye. There are visually distinct sections of smoothness and separation around the edges.
+I started this progect back in 2021 when I evenly devided the RGB color spectrum using simple math functions. However, this is not perceived uniformly by the human eye.
 <br><br>
 ![image](https://github.com/user-attachments/assets/9d64204b-de6f-4de4-a8f0-dd7f8dffa543)
 # CIELAB color space
