@@ -1,5 +1,7 @@
 # Color Space
 These programs were designed to generate color palettes by evenly dividing the color spectrum. The goal is to decrease color count needed for games while retaining coverage over the entire color spectrum. 
+# How to use
+color13 and on use arrow keys to rotate the 3d environment.
 # Initial versions
 I started by creating an even distribution over the RGB color space. However this is not perceived uniformly by the human eye. There are visually distinct sections of smoothness and separation around the edges.
 <br><br>
